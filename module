@@ -1,0 +1,9 @@
+class suni
+{
+public static void main(string[args])
+{
+int a=10;
+int b=6;
+system.out.println("add:" a+b);
+}
+}
